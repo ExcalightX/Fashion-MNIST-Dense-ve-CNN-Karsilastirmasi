@@ -5,7 +5,7 @@ TensorFlow/Keras ile Fashion-MNIST veri seti üzerinde; epoch sayısı, Dropout,
 **Hazırlayan:** Göktuğ Vefa Uysal  
 **Ders:** Yapay Sinir Ağları ve Derin Öğrenme
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_LINKINIZI_BURAYA_YAPISTIRIN)
+[![Open In Colab](https://colab.research.google.com/drive/1dXB3UGSd2nhw1MT-Usv_8bBU2O1g4mvz?usp=sharing)
 
 ---
 
